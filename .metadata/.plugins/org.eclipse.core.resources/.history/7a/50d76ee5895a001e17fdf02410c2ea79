@@ -1,0 +1,5 @@
+package com.alumnos.entity;
+
+public class Alumnos {
+
+}
